@@ -1,0 +1,10 @@
+Airflow -> Workflows --> DAG [Directed Acyclic Graph]
+
+Task-1:
+API -> DATA             <- node
+
+Task-2:
+Transformation
+
+Task-3:
+DATA -> PostGRES
