@@ -42,8 +42,8 @@ This project sets up a simple ETL pipeline using [Apache Airflow](https://airflo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/airflow-etl-weather.git
-cd airflow-etl-weather
+git clone https://github.com/thisisAranya/weather_airflow_project.git
+cd weather_airflow_project
 ```
 
 ### 2. Start PostgreSQL via Docker Compose
