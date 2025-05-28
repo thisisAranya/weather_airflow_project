@@ -158,7 +158,12 @@ docker-compose down
 
 ## 📝 Author
 
-- [Your Name](https://github.com/your-username)
+- [Aranya Saha](https://github.com/thisisAranya)
+
+---
+
+## Acknowledgement
+This project has been implemented from a youtube video of Krish Naik.
 
 ---
 
